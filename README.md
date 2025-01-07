@@ -1,1 +1,2 @@
-# 2DGame-Godot-
+# Dodge The Creeps
+## Tutorial project
